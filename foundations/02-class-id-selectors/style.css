@@ -1,0 +1,24 @@
+*{
+    color: #000000;
+}
+
+.odd{
+    background-color: #da7979;
+    font-family: "Veranda", sans-serif;
+}
+
+.e3 {
+    font-size: 24px;
+}
+
+#e2 {
+    color: #0000ff;
+    background-color: #ffffff;
+    font-size: 36px;
+}
+
+#e4{
+    background-color: #92ee92;
+    font-size: 24px;
+    font-weight: bold;
+}
